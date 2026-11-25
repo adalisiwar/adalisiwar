@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Siwar Adali </h1>
-<h3 align="center">A passionate software engineering student from Tunisia</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adalisiwar&label=Profile%20views&color=0e75b6&style=flat" alt="adalisiwar" /> </p>
+# Siwar Adali
+
+### AI Engineer | Machine Learning | Computer Vision | Generative AI
+
+**Building intelligent systems from research to real-world applications.**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adalisiwar" alt="adalisiwar" /></a> </p>
 
