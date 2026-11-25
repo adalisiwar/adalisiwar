@@ -1,3 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adalisiwar&label=Profile%20views&color=0e75b6&style=flat" alt="adalisiwar" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adalisiwar" alt="adalisiwar" /></a> </p>
+
 <div align="center">
 
 # Siwar Adali
@@ -6,13 +10,13 @@
 
 **Building intelligent systems from research to real-world applications.**
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adalisiwar" alt="adalisiwar" /></a> </p>
+Final-Year Computer Engineering Student @ ENIS · Tunisia 🇹🇳
 
-- 🌱 I’m currently learning **Ai and data science**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adali-siwar-2914b328a/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siwar.adali@enis.tn)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github)](https://github.com/adalisiwar)
 
-- 📫 How to reach me **siwar.adali@enis.tn**
-
-- 📄 Know about my experiences through [My_Resume](https://drive.google.com/file/d/1lxYJyO09DuPFAcpCAJyR074C0moCDtdy/view?usp=sharing)
+</div>
 
 ---
 
@@ -24,13 +28,6 @@ My experience combines **six internship experiences across Tunisia and France** 
 
 Currently, I'm working part-time as an **AI Engineer at VisShop AI**, contributing to the development, evaluation and optimization of AI solutions using real-world client data.
 
-**What I work on:**
-
-- **Computer Vision & Deep Learning:** Object detection, multi-object tracking, image classification and model optimization.
-- **Generative AI & LLMs:** Retrieval-Augmented Generation (RAG), embeddings, intelligent document processing and AI agents.
-- **Machine Learning & Data Science:** Predictive modelling, data analysis, model evaluation and experimentation.
-- **MLOps & AI Engineering:** Model deployment, containerization, CI/CD and monitoring.
-- **Software Engineering:** Python applications, REST APIs and distributed systems.
 
 ## Experience & Achievements
 
@@ -51,31 +48,6 @@ Developing and evaluating Computer Vision solutions on real-world retail data.
 - Dataset of 5,234 images.
 - 94% detection accuracy.
 - Less than 4% counting error.
-
----
-
-## Featured Projects
-
-### 🧠 NeuroTrace | Deep Learning & Explainable AI
-Brain tumor classification using DenseNet121, achieving 96.85% accuracy and 94.20% macro F1-score. Integrated Grad-CAM for visual model explanations and Hyperledger Fabric for traceability.
-
-**Technologies:** Python · PyTorch · DenseNet121 · Grad-CAM · Hyperledger Fabric
-
-### 🌐 TwinShield-IoT | Distributed Fog-to-Fog Intrusion Detection
-A collaborative IoT security architecture designed for distributed intrusion detection and communication between Fog nodes.
-
-**Technologies:** Python · FastAPI · MQTT · PostgreSQL · Docker · mTLS
-
-### 📦 Empty Shelf Segmentation | Computer Vision
-Computer Vision project focused on detecting and segmenting empty shelf areas to support retail inventory monitoring.
-
-**Technologies:** Python · YOLO · Roboflow · OpenCV · Deep Learning
-
-### 🌱 AI for Climate | Predictive Analytics
-Fire-risk prediction using satellite imagery and meteorological data, combining geospatial processing and machine learning.
-
-**Technologies:** Python · Machine Learning · QGIS · Pandas · NumPy
-
 ---
 
 ## Technical Stack
