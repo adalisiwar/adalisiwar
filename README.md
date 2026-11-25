@@ -1,19 +1,15 @@
+<h1 align="center">Hi 👋, I'm Siwar Adali </h1>
+<h3 align="center">A passionate software engineering student from Tunisia</h3>
 
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adalisiwar&label=Profile%20views&color=0e75b6&style=flat" alt="adalisiwar" /> </p>
 
-# Siwar Adali
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adalisiwar" alt="adalisiwar" /></a> </p>
 
-### AI Engineer | Machine Learning | Computer Vision | Generative AI
+- 🌱 I’m currently learning **Ai and data science**
 
-**Building intelligent systems from research to real-world applications.**
+- 📫 How to reach me **siwar.adali@enis.tn**
 
-Final-Year Computer Engineering Student @ ENIS · Tunisia 🇹🇳
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adali-siwar-2914b328a/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siwar.adali@enis.tn)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github)](https://github.com/adalisiwar)
-
-</div>
+- 📄 Know about my experiences through [My_Resume](https://drive.google.com/file/d/1lxYJyO09DuPFAcpCAJyR074C0moCDtdy/view?usp=sharing)
 
 ---
 
