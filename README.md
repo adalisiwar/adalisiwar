@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adalisiwar&label=Profile%20views&color=0e75b6&style=flat" alt="adalisiwar" /> </p>
 <div align="center">
 
 # Siwar Adali
@@ -6,9 +6,6 @@
 ### AI Engineer · Computer Vision · Deep Learning · Generative AI
 
 **Turning data and ideas into intelligent, practical solutions.**
-
-I build AI systems that solve real-world problems — from computer vision and deep learning to LLM-powered applications.
-
 <br/>
 
 <a href="https://www.linkedin.com/in/adali-siwar-2914b328a/">
@@ -17,14 +14,6 @@ I build AI systems that solve real-world problems — from computer vision and d
 <a href="mailto:siwar.adali@enis.tn">
   <img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/adalisiwar">
-  <img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=adalisiwar&style=for-the-badge&color=blueviolet&label=PROFILE+VISITORS" alt="Profile visitors"/>
-
 </div>
 
 ---
@@ -49,17 +38,6 @@ Currently, I'm working part-time as an **AI Engineer at VisShop AI**, developing
 | Tunisia IoT & AI Challenge 2024 | UNDP Frontier Tech Leaders – AI for Climate | Tunisia & France |
 
 </div>
-
-### Selected Industry Work — Computer Vision
-
-At **VisShop AI**, I contribute to the development and evaluation of AI-powered retail analytics solutions.
-
-| Project metric | Result |
-|:---|---:|
-| People detection & tracking | YOLOv8 + ByteTrack |
-| Dataset | 5,234 images |
-| Detection accuracy | 94% |
-| Counting error | < 4% |
 
 ---
 ## Technical Stack
