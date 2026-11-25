@@ -1,18 +1,29 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adalisiwar&label=Profile%20views&color=0e75b6&style=flat" alt="adalisiwar" /> </p>
 
 <div align="center">
 
 # Siwar Adali
 
-### AI Engineer | Machine Learning | Computer Vision | Generative AI
+### AI Engineer · Computer Vision · Deep Learning · Generative AI
 
-**Building intelligent systems from research to real-world applications.**
+**Turning data and ideas into intelligent, practical solutions.**
 
-Final-Year Computer Engineering Student @ ENIS · Tunisia 🇹🇳
+I build AI systems that solve real-world problems — from computer vision and deep learning to LLM-powered applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adali-siwar-2914b328a/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siwar.adali@enis.tn)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github)](https://github.com/adalisiwar)
+<br/>
+
+<a href="https://www.linkedin.com/in/adali-siwar-2914b328a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:siwar.adali@enis.tn">
+  <img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/adalisiwar">
+  <img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=adalisiwar&style=for-the-badge&color=blueviolet&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
 </div>
 
@@ -20,34 +31,37 @@ Final-Year Computer Engineering Student @ ENIS · Tunisia 🇹🇳
 
 ## About Me
 
-I'm a final-year Computer Engineering student at the **National Engineering School of Sfax (ENIS), Tunisia**, with a strong focus on Artificial Intelligence and its real-world applications.
+I'm a final-year **Computer Engineering student at the National Engineering School of Sfax (ENIS), Tunisia**, passionate about building intelligent systems and bringing AI research closer to real-world applications.
 
-My experience combines **six internship experiences across Tunisia and France** with hands-on AI engineering in industry. I enjoy designing, implementing and evaluating intelligent systems, from deep-learning models and computer-vision pipelines to LLM-powered applications.
+My journey combines **six internship experiences across Tunisia and France**, hands-on industry experience, and a strong interest in applied AI. I've worked across the AI development lifecycle — from data preparation and model experimentation to evaluation, integration, and deployment.
 
-Currently, I'm working part-time as an **AI Engineer at VisShop AI**, contributing to the development, evaluation and optimization of AI solutions using real-world client data.
+Currently, I'm working part-time as an **AI Engineer at VisShop AI**, developing and optimizing computer vision solutions using real-world retail data.
 
+**What drives me:** understanding challenging problems, experimenting with new technologies, and engineering AI solutions that are not only accurate but also useful, efficient, and deployable.
 
-## Experience & Achievements
+## Highlights
 
-🏆 **1st Place – Tunisia IoT & AI Challenge 2024**  
-Awarded first place among 45 national teams.
+<div align="center">
 
-🌍 **UNDP Frontier Tech Leaders – AI for Climate**  
-Selected for the international programme focused on emerging technologies and climate innovation.
+| 🏆 Competition | 🌍 International Programme | 💼 Industry Experience |
+|:---:|:---:|:---:|
+| **1st Place** | **Selected** | **6 Internships** |
+| Tunisia IoT & AI Challenge 2024 | UNDP Frontier Tech Leaders – AI for Climate | Tunisia & France |
 
-💼 **Six Internship Experiences**  
-Practical experience in Artificial Intelligence, Data Science and Software Engineering across Tunisia and France.
+</div>
 
-🤖 **AI Engineer – VisShop AI**  
-Developing and evaluating Computer Vision solutions on real-world retail data.
+### Selected Industry Work — Computer Vision
 
-**Selected technical achievement:**
-- YOLOv8 + ByteTrack people detection and tracking.
-- Dataset of 5,234 images.
-- 94% detection accuracy.
-- Less than 4% counting error.
+At **VisShop AI**, I contribute to the development and evaluation of AI-powered retail analytics solutions.
+
+| Project metric | Result |
+|:---|---:|
+| People detection & tracking | YOLOv8 + ByteTrack |
+| Dataset | 5,234 images |
+| Detection accuracy | 94% |
+| Counting error | < 4% |
+
 ---
-
 ## Technical Stack
 
 ### Artificial Intelligence & Machine Learning
