@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=adalisiwar&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B1220,45:0F766E,100:22D3EE&text=SIWAR%20ADALI&fontColor=F8FAFC&fontSize=48&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20COMPUTER%20VISION%20%7C%20GENERATIVE%20AI&descAlignY=60&descSize=15" alt="Siwar Adali — AI Engineer, Computer Vision, Generative AI" />
 
 <p align="center">
@@ -10,7 +12,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to-PFE_from_February_2027-22C55E?style=flat-square" alt="Open to PFE from February 2027" />
   <img src="https://img.shields.io/badge/Based_in-Tunisia_%C2%B7_open_to_relocation-0F766E?style=flat-square" alt="Based in Tunisia, open to relocation" />
-  <img src="https://komarev.com/ghpvc/?username=adalisiwar&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 ## About me
